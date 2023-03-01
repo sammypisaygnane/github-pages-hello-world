@@ -3,6 +3,19 @@ body {
     background-color: pink;
 }
 
-.container {
+header {
+    text-align: center;
+}
+
+main {
     background-color: white;
+    padding: 2em;
+}
+
+footer {
+    text-align: center;
+}
+
+strong {
+    color: green;
 }
